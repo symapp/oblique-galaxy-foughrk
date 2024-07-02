@@ -13,6 +13,6 @@ import {MatIcon} from '@angular/material/icon';
 		<button mat-button obButton="primary" type="button">Primary</button>
 		<button mat-button obButton="secondary" type="button">Secondary</button>
 		<button mat-button obButton="tertiary" type="button">Tertiary</button>
-		<h1>bababa</h1> `
+		<h1>1234</h1> `
 })
 export class ObgObliqueGalaxyComponent {}
